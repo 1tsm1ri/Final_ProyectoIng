@@ -31,7 +31,7 @@ Los precios se dan tomando en cuenta el tipo de producto (que en este caso son d
 - Niveles de complejidad: Normal, Media y Alta.
 - Cálculo automático de la comisión de PayPal (5.4% + $0.30).
 - Consola integrada para mostrar mensajes en la misma ventana.
-- Posibilidad de agregar, eliminar y visualizar productos agregados.
+- Posibilidad de agregar, eliminar y visualizar productos.
 - Confirmaciones con ventanas emergentes personalizadas.
 
 ## 🛠️ Tecnologías
