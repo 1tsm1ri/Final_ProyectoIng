@@ -10,7 +10,7 @@
 </p>
     <p align='center'>
         <img 
-        src="https://capsule-render.vercel.app/api?type=rect&height=5&color=761616&reversal=false&fontAlignY=40&fontColor=FFFFFF&fontSize=60"
+        src="https://capsule-render.vercel.app/api?type=rect&height=5&color=80354A&reversal=false&fontAlignY=40&fontColor=FFFFFF&fontSize=60"
         >
     </p>
 
